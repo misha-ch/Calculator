@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnFontSize">20sp</dimen>
+    <dimen name="textFontSize">50sp</dimen>
+    <dimen name="btnMargin">3dp</dimen>
+    <dimen name="textMargin">3dp</dimen>
+    <dimen name="textHeight">100dp</dimen>
+    <dimen name="zeroWidth">0dp</dimen>
+</resources>
